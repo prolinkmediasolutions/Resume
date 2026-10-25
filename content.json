@@ -1,0 +1,65 @@
+{
+  "name": "Prosper Adams",
+  "title": "Website Developer \u00b7 Graphic Designer \u00b7 IT Consultant",
+  "summary": "I build purposeful websites, create distinctive visual communication, and help organisations put technology to work. My experience spans ministries, foundations, and educational institutions \u2014 bringing digital presence and media capability together with care and clarity.",
+  "phone": "08034519638",
+  "address": "3, Ewudeji Ewubajo Street, GRA Quarters, Sagamu, Ogun State, Nigeria",
+  "projects": [
+    {
+      "title": "Omega Fire Ministries, Los Angeles",
+      "category": "development",
+      "type": "Church media & website development",
+      "description": "Media support and website development for Omega Fire Ministries, Los Angeles.",
+      "challenge": "Support the ministry\u2019s online presence and media communication.",
+      "approach": "Contributed website development and media support aligned with the ministry\u2019s communication needs."
+    },
+    {
+      "title": "LineageCare Foundation",
+      "category": "development",
+      "type": "Foundation website",
+      "description": "Website work for LineageCare Foundation.",
+      "challenge": "Present the foundation through a clear digital presence.",
+      "approach": "Worked on the foundation\u2019s website to communicate its identity and work."
+    },
+    {
+      "title": "Church of God Mission Sunderland",
+      "category": "development",
+      "type": "Church website",
+      "description": "Website work for Church of God Mission Sunderland.",
+      "challenge": "Support the church\u2019s digital presence.",
+      "approach": "Contributed website work focused on communicating the church\u2019s identity."
+    },
+    {
+      "title": "CGMI Diaspora",
+      "category": "development",
+      "type": "Ministry website",
+      "description": "Website work for CGMI Diaspora.",
+      "challenge": "Support the ministry\u2019s online communication.",
+      "approach": "Contributed website development for its digital presence."
+    },
+    {
+      "title": "Matthew Omondiale Mentorship Institute",
+      "category": "development",
+      "type": "Institute website",
+      "description": "Website development for Matthew Omondiale Mentorship Institute.",
+      "challenge": "Present the institute and its mentorship focus online.",
+      "approach": "Worked on a website suited to the institute\u2019s identity and communication needs."
+    },
+    {
+      "title": "SMTI",
+      "category": "development",
+      "type": "Institutional website",
+      "description": "Website work for SMTI.",
+      "challenge": "Support the institution with an online presence.",
+      "approach": "Contributed website development aligned with the institution\u2019s requirements."
+    },
+    {
+      "title": "Livingway World Church",
+      "category": "strategy",
+      "type": "Complete media setup",
+      "description": "Total media setup for Livingway World Church.",
+      "challenge": "Bring together the media components needed for church communication.",
+      "approach": "Delivered a complete media setup for the church."
+    }
+  ]
+}
